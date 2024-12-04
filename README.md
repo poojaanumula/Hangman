@@ -1,1 +1,3 @@
 # Hangman
+
+Javascript prject
